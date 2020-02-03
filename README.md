@@ -12,8 +12,8 @@ This is the first project for the Web Developent class at Universidad de los And
 This website is self-contained. All contents, from Bootstrap to Javascript, are included as links in the project's files. To deploy this project, just click on the index.html file or run a local server on your computer.
 
 ## Preview of website (Screenshot)
-Link to the website : https://mrodriguez21.github.io/
 ![Screenshot of website](images/screenshot.png?raw=true "Screenshot of the website functioning")
+Link to the website : https://mrodriguez21.github.io/
 
 ## Author
 [Mariana Rodriguez Serrano] (https://github.com/mrodriguez21)

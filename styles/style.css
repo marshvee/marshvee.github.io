@@ -46,7 +46,6 @@ nav {
 .active {
     font-weight: bold;
     text-decoration: underline;
-    text-underline-offset: 1vh;
 }
 
 main {
@@ -113,7 +112,7 @@ main {
 }
 
 .about .about-container {
-    padding: 1.5vw;
+    padding: 1vw;
     min-width: 40vw;
 }
 
