@@ -1,3 +1,5 @@
+"use strict";
+
 const strings = ["Systems and Computing Engineering Student","Mathematics Student", "Programmer", "Environmentalist",
                     "Animal Lover", "Artist", "Figure Collector", "Figure Skating Enthusiast",  "Pokemon fan", "Passionate Learner"];
 const TIME_AFTER_TYPING = 1400;
