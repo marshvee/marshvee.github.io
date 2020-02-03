@@ -4,10 +4,11 @@ html {
 }
 
 body {
-    height: 100%;
+    min-height: 100vh;
     font-family: 'Poppins', sans-serif;
     margin: 0 auto;
-    padding: 2.5%
+    padding: 2.5%;
+    padding-bottom: 0;
 }
 
 h1 {
@@ -19,14 +20,33 @@ img {
     margin: 0 auto;
 }
 
+a, a:hover {
+    color: #FF6299;
+}
+
 /* Navigation bar */
 
 nav {
     height: 10vh;
+    background-color: #FF6299;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover, .active {
+    color: #3d292b;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-offset: 1vh;
 }
 
 main {
-    margin-top: 5vh;
+    margin-top: 8vh;
 }
 
 /* UTILITIES */
