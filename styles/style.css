@@ -37,6 +37,11 @@ nav {
 
 .nav-link {
     color: white;
+    background-color: #FF6299;
+    padding: 1rem;
+    text-align: center;
+    min-width: 8vw;
+    max-width: 15rem;
 }
 
 .nav-link:hover, .active {
@@ -46,6 +51,28 @@ nav {
 .active {
     font-weight: bold;
     text-decoration: underline;
+}
+
+.navbar-toggler {
+    position: relative;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: 0;
+}
+
+.navbar-toggler span {
+    display: block;
+    background-color: white;
+    height: 3px;
+    width: 25px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: 0;
+    opacity: 1;
 }
 
 main {
