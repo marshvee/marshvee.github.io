@@ -1,0 +1,25 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This is the first project for the Web Developent class at Universidad de los Andes, Bogota (Colombia). The objective was to create a simple webpage containing useful information for potential employers, using what we've learned of HTML, CSS, Bootstrap and JS these past two weeks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrodriguez21/personal-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrodriguez21/personal-website/issues"
+  },
+  "homepage": "https://github.com/mrodriguez21/personal-website#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1"
+  }
+}
