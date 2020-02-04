@@ -156,3 +156,8 @@ main {
 .contact {
     padding-bottom: 0.8%;
 }
+
+/*Luis Carlos Garavito Romero: Personalmente, pienso que centrado se vería mucho mejor*/
+.social-media {
+    text-align: center;
+}
