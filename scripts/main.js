@@ -1,12 +1,13 @@
+//Laura Pardo: Bien por el use strict
 "use strict";
-
+//Laura Pardo: Uso muy interesante de javascript para crear un texto ligero de leer, visualmente apelador y demuestra buen conocimiento del lenguaje.
 const strings = ["Systems and Computing Engineering Student","Mathematics Student", "Programmer", "Environmentalist",
                     "Animal Lover", "Artist", "Figure Collector", "Figure Skating Enthusiast",  "Pokemon fan", "Passionate Learner"];
 const TIME_AFTER_TYPING = 1400;
 const TIME_BETWEEN_TYPING = 100;
 const TIME_AFTER_DELETING = 500;
 const TIME_BETWEEN_DELETING = 30;
-
+//Laura Pardo: Podrías complementar la documentación con pequeñas descripciones de los métodos.
 let cur_string = 0;
 let cur_string_index = 0;
 let interval_val;
