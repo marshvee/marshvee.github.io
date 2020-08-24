@@ -13,10 +13,10 @@ This website is self-contained. All contents, from Bootstrap to Javascript, are 
 
 ## Preview of website (Screenshot)
 ![Screenshot of website](images/screenshot.png?raw=true "Screenshot of the website functioning")
-Link to the website : https://mrodriguez21.github.io/
+Link to the website : https://marshvee.github.io/
 
 ## Author
-[Mariana Rodriguez Serrano] (https://github.com/mrodriguez21)
+[Mariana Rodriguez Serrano](https://github.com/marshvee) 👩🏻‍💻🌸
 
 ## License
 This project is licensed under the terms of the [MIT License](https://github.com/mrodriguez21/mrodriguez21.github.io/blob/master/LICENSE)
